@@ -1,0 +1,2 @@
+{"name":"algorithm-agent-academy","version":"1.0.0","private":true,"type":"module","scripts":{"start":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0","check":"tsc --noEmit","test":"node --test"},"devDependencies":{"typescript":"^5.7.3","vite":"^6.0.7"}}
+
